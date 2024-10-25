@@ -5,4 +5,4 @@ edition = "2021"
 
 [dependencies]
 chrono = "0.4.38"
-libc = "0.2.157"
+libc = "0.2.161"
